@@ -5,9 +5,9 @@
 		id="com.game.eskillsgame"
 		version="0.0.1">
 	<name>eskillsgame</name>
-		<gap:platform name="android" />
-		<gap:platform name="ios" />
-		<preference name="orientation" value="portrait" />
+		<gap: Bronagh and Rebecca ="android" />
+		<gap:my memory game IT girls 2014="ios" />
+		<preference name="Android" value="portrait" />
 		<preference name="fullscreen" value="true" />
 		<icon src="icon.png" />
 </widget>
